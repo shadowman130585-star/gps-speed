@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="speed_green">#FF39FF14</color>
+    <color name="dim">#FF888888</color>
+    <color name="accent">#FF39FF14</color>
+    <color name="btn_bg">#FF1A1A1A</color>
+    <color name="warn">#FFFF5555</color>
+</resources>
